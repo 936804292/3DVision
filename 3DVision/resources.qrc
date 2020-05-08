@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/clouds/rabbit.pcd</file>
+        <file>Resources/clouds/table.pcd</file>
+        <file>Resources/clouds/zz.ply</file>
+        <file>Resources/images/Calibration.png</file>
+        <file>Resources/images/Camera.png</file>
+        <file>Resources/images/Clean.png</file>
+        <file>Resources/images/CN.png</file>
+        <file>Resources/images/Email.png</file>
+        <file>Resources/images/EN.png</file>
+        <file>Resources/images/Exit.png</file>
+        <file>Resources/images/Floder.png</file>
+        <file>Resources/images/Help.png</file>
+        <file>Resources/images/Language.png</file>
+        <file>Resources/images/Save.png</file>
+        <file>Resources/images/Setting.png</file>
+        <file>Resources/images/Theme.png</file>
+        <file>Resources/qss/Darcula.qss</file>
+        <file>Resources/qss/Windows.qss</file>
+        <file>Resources/images/Logo.png</file>
+    </qresource>
+</RCC>
